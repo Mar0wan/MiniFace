@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7d90fLvDQtOcwb0qFoQJUbhPVKmihvx+GBaPZ405tM=",
+  "Source": "AphTask.api",
+  "BasePath": "_content/AphTask.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
